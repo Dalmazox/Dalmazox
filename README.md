@@ -1,4 +1,8 @@
 # Kelvi "Dalmazox" Dalmazo 👽
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dalmazox)](https://github.com/Dalmazox)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvidalmazo/)](https://www.linkedin.com/in/kelvidalmazo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvi.dalmazo@gmail.com)](mailto:kelvi.dalmazo@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/o_dalmazo)](https://twitter.com/o_dalmazo)
 
 Welcome stranger. What brings you here?
 
@@ -37,13 +41,3 @@ Born in **1999**. Programming since the age of **13**. A person who wanted to ha
 
 ## Hobbies
 I like to play several games, including **Red Dead Redemption**, **Uncharted**, **God of War**, **FIFA**, **PES**, etc. Read books like **Harry Potter** and **Game of Thrones**, or some about fantasy in general. **RPG**, this is life.
-
-
-## Contacts
-Follow me on GitHub 😄
-
-![GitHub followers](https://img.shields.io/github/followers/dalmazox?style=social)
-  
-If you like memes, i have Twitter 😉
-
-![Twitter Follow](https://img.shields.io/twitter/follow/o_dalmazo?style=social)
