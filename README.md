@@ -41,7 +41,9 @@ I like to play several games, including **Red Dead Redemption**, **Uncharted**, 
 
 ## Contacts
 Follow me on GitHub 😄
-![Follow me](https://img.shields.io/github/followers/dalmazox?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/dalmazox?style=social)
   
 If you like memes, i have Twitter 😉
-![Follow me](https://img.shields.io/twitter/follow/o_dalmazo?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/o_dalmazo?style=social)
